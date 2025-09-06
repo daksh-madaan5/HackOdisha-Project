@@ -91,10 +91,6 @@ npm install
 ## Run the app
 npm run dev
 
-## 📌 TODO
-### Add authentication (login/signup)
-### Encrypt passwords before saving
-### Deploy to Render/Netlify + MogoDB Atlas
 
 # Made with ❤️ using React, Tailwind, Express & MongoDB
 
