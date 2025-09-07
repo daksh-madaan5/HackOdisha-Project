@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+html, body {
+  height: 100%;
+  margin: 0;
+  background: radial-gradient(120% 120% at 50% 10%, #000000 40%, #1e40af 100%);
+  background-attachment: fixed;
+  color: white;
+}
