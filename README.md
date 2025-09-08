@@ -67,8 +67,7 @@ Passecure is a sleek and secure password manager built using **React + Vite** fo
 
 # 🔧 Backend Setup
 
-## Clone the repo
-git clone https://github.com/Alok-devlops/passecure.git
+
 cd passecure
 
 ## Go to backend folder 
